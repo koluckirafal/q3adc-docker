@@ -1,0 +1,3 @@
+[submodule "lilium-arena-classic"]
+	path = lilium-arena-classic
+	url = https://github.com/zturtleman/lilium-arena-classic.git
